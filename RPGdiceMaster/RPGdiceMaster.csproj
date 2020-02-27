@@ -4,5 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="CodeBase\ServiceLayer\Commands\" />
+    <Folder Include="CodeBase\SQL\Tables\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Entities\" />
+  </ItemGroup>
+
 
 </Project>
